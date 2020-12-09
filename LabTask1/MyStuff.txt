@@ -1,0 +1,4 @@
+uid=21037(fbel322) gid=15(kmem) groups=15(kmem)
+/bin/tcsh
+/home/ugrad/fbel322
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/ugrad/fbel322/bin

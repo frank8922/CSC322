@@ -1,0 +1,9 @@
+./Ticker 5 &
+./Ticker 7 
+kill -STOP $!
+jobs
+bg 2
+fg 1
+kill -STOP %1
+kill -9 %1
+kill -9 %2

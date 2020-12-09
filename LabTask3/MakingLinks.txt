@@ -1,0 +1,6 @@
+mkdir LabTask3
+mkdir Originals
+cd Originals
+touch HardStuff SoftStuff
+ln ../Originals/HardStuff LinkToHardStuff
+ln -s /home/ugrad/fbel322/LabTask3/Orginals/SoftStuff RelativeToSoftStuff

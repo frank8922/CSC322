@@ -1,0 +1,4 @@
+chmod u+rwx,g+rw,o+r IveGotRights/
+vim .bashrc
+umask 112
+source .bashrc

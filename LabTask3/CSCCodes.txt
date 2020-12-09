@@ -1,0 +1,1 @@
+head -n 12 CSCCodes | tail -8 | grep -E '(C(sc|SC)([0-9]){3}),?)? '

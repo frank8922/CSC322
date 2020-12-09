@@ -1,0 +1,4 @@
+practice_exercises/
+**/*.swp
+.vscode/
+**/*.dSYM
